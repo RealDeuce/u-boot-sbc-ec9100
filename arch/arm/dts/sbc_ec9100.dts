@@ -41,8 +41,6 @@
 };
 
 &cpu0 {
-	arm-supply = <&reg_arm>;
-	soc-supply = <&reg_soc>;
 	clock-frequency = <528000000>;
 };
 
